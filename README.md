@@ -1,1 +1,1 @@
-# apprentice で使用する Discord Bot をためていくリポジトリ
+## apprentice で使用する Discord Bot をためていくリポジトリ
